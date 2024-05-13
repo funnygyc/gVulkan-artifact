@@ -242,9 +242,9 @@ cd build/linux/bin
 
 gVulkan is working. You can see the fps by the number on the window's title. You can also find out the time interval (in milliseconds) between each *CYCLE END 8* from the generated log file : `vulkan_remote_server/build/log`
 
-PS. We use 2GPU for acceleration by default. If you wish to use 1 GPU to test the effect of API-forwarding, or more GPUs to achieve faster acceleration, please refer to **Change the GPU number used by gVulkan** to modify the code and recompile it.
+PS. We use 2GPU for acceleration by default. If you wish to use 1 GPU to test the effect of API-forwarding, or more GPUs to achieve faster acceleration, please refer to [**Change the GPU number used by gVulkan**](#change-the-gpu-number-used-by-gvulkan) to modify the code and recompile it.
 
-# Others
+# Use the gVulkan
 
 ## Other version of gVulkan
 
