@@ -343,3 +343,9 @@ sudo tc qdisc del dev lo root netem delay 1ms
 ```
 
 reference: https://netbeez.net/blog/how-to-use-the-linux-traffic-control/
+
+# Data and Scripts
+
+The data we collected from the gVulkan and the scripts to generate figures from the data are in data&scripts.zip.
+
+You can generate figures by `python xxx.py` and the figure will be saved in ./img .

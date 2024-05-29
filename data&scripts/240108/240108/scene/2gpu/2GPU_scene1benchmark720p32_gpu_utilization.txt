@@ -1,0 +1,500 @@
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:31.892, Tesla T4, 0, 55 %, 191 MiB, 46.87 W
+2024/01/07 18:08:31.896, Tesla T4, 1, 77 %, 155 MiB, 69.25 W
+2024/01/07 18:08:31.904, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:31.908, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:32.715, Tesla T4, 0, 55 %, 191 MiB, 50.13 W
+2024/01/07 18:08:32.719, Tesla T4, 1, 74 %, 155 MiB, 76.34 W
+2024/01/07 18:08:32.723, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:32.727, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:33.532, Tesla T4, 0, 51 %, 191 MiB, 50.97 W
+2024/01/07 18:08:33.536, Tesla T4, 1, 71 %, 155 MiB, 72.96 W
+2024/01/07 18:08:33.542, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:08:33.546, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:34.351, Tesla T4, 0, 51 %, 191 MiB, 73.89 W
+2024/01/07 18:08:34.356, Tesla T4, 1, 77 %, 155 MiB, 53.22 W
+2024/01/07 18:08:34.360, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:08:34.364, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:35.167, Tesla T4, 0, 48 %, 191 MiB, 61.39 W
+2024/01/07 18:08:35.171, Tesla T4, 1, 78 %, 155 MiB, 59.72 W
+2024/01/07 18:08:35.180, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:35.185, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:35.989, Tesla T4, 0, 50 %, 191 MiB, 60.23 W
+2024/01/07 18:08:35.994, Tesla T4, 1, 79 %, 155 MiB, 64.76 W
+2024/01/07 18:08:35.998, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:08:36.002, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:36.804, Tesla T4, 0, 47 %, 191 MiB, 61.19 W
+2024/01/07 18:08:36.810, Tesla T4, 1, 76 %, 155 MiB, 76.72 W
+2024/01/07 18:08:36.819, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:36.823, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:37.625, Tesla T4, 0, 51 %, 191 MiB, 72.35 W
+2024/01/07 18:08:37.629, Tesla T4, 1, 77 %, 155 MiB, 71.81 W
+2024/01/07 18:08:37.634, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:08:37.638, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:38.440, Tesla T4, 0, 52 %, 191 MiB, 70.57 W
+2024/01/07 18:08:38.444, Tesla T4, 1, 78 %, 155 MiB, 72.53 W
+2024/01/07 18:08:38.452, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:08:38.456, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:39.263, Tesla T4, 0, 55 %, 191 MiB, 68.20 W
+2024/01/07 18:08:39.268, Tesla T4, 1, 78 %, 155 MiB, 72.92 W
+2024/01/07 18:08:39.272, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:39.277, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:40.078, Tesla T4, 0, 55 %, 191 MiB, 71.53 W
+2024/01/07 18:08:40.082, Tesla T4, 1, 78 %, 155 MiB, 74.46 W
+2024/01/07 18:08:40.088, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:40.092, Tesla T4, 3, 0 %, 9 MiB, 36.12 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:40.897, Tesla T4, 0, 49 %, 191 MiB, 49.16 W
+2024/01/07 18:08:40.901, Tesla T4, 1, 71 %, 155 MiB, 75.33 W
+2024/01/07 18:08:40.906, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:40.910, Tesla T4, 3, 0 %, 9 MiB, 35.73 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:41.716, Tesla T4, 0, 55 %, 191 MiB, 47.55 W
+2024/01/07 18:08:41.722, Tesla T4, 1, 75 %, 155 MiB, 57.15 W
+2024/01/07 18:08:41.727, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:41.731, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:42.535, Tesla T4, 0, 51 %, 191 MiB, 60.23 W
+2024/01/07 18:08:42.540, Tesla T4, 1, 78 %, 155 MiB, 70.27 W
+2024/01/07 18:08:42.550, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:42.554, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:43.357, Tesla T4, 0, 47 %, 191 MiB, 67.91 W
+2024/01/07 18:08:43.362, Tesla T4, 1, 75 %, 155 MiB, 74.65 W
+2024/01/07 18:08:43.366, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:43.370, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:44.178, Tesla T4, 0, 45 %, 191 MiB, 75.52 W
+2024/01/07 18:08:44.183, Tesla T4, 1, 74 %, 155 MiB, 51.61 W
+2024/01/07 18:08:44.187, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:44.191, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:45.000, Tesla T4, 0, 49 %, 191 MiB, 58.14 W
+2024/01/07 18:08:45.004, Tesla T4, 1, 73 %, 155 MiB, 44.99 W
+2024/01/07 18:08:45.013, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:45.017, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:45.824, Tesla T4, 0, 46 %, 191 MiB, 50.77 W
+2024/01/07 18:08:45.829, Tesla T4, 1, 78 %, 155 MiB, 64.76 W
+2024/01/07 18:08:45.839, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:45.843, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:46.648, Tesla T4, 0, 48 %, 191 MiB, 49.45 W
+2024/01/07 18:08:46.652, Tesla T4, 1, 77 %, 155 MiB, 69.69 W
+2024/01/07 18:08:46.656, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:46.660, Tesla T4, 3, 0 %, 9 MiB, 35.73 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:47.634, Tesla T4, 0, 49 %, 191 MiB, 60.42 W
+2024/01/07 18:08:47.639, Tesla T4, 1, 80 %, 155 MiB, 65.01 W
+2024/01/07 18:08:47.657, Tesla T4, 2, 0 %, 9 MiB, 35.63 W
+2024/01/07 18:08:47.661, Tesla T4, 3, 0 %, 9 MiB, 38.13 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:48.479, Tesla T4, 0, 47 %, 191 MiB, 50.22 W
+2024/01/07 18:08:48.483, Tesla T4, 1, 74 %, 155 MiB, 74.17 W
+2024/01/07 18:08:48.488, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:48.492, Tesla T4, 3, 0 %, 9 MiB, 35.73 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:49.296, Tesla T4, 0, 49 %, 191 MiB, 47.26 W
+2024/01/07 18:08:49.300, Tesla T4, 1, 71 %, 155 MiB, 78.69 W
+2024/01/07 18:08:49.305, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:49.309, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:50.110, Tesla T4, 0, 45 %, 191 MiB, 52.80 W
+2024/01/07 18:08:50.115, Tesla T4, 1, 72 %, 155 MiB, 73.30 W
+2024/01/07 18:08:50.120, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:50.125, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:50.929, Tesla T4, 0, 46 %, 191 MiB, 52.13 W
+2024/01/07 18:08:50.933, Tesla T4, 1, 72 %, 155 MiB, 57.25 W
+2024/01/07 18:08:50.938, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:50.945, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:51.750, Tesla T4, 0, 45 %, 191 MiB, 48.19 W
+2024/01/07 18:08:51.754, Tesla T4, 1, 74 %, 155 MiB, 53.29 W
+2024/01/07 18:08:51.758, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:51.762, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:52.570, Tesla T4, 0, 54 %, 191 MiB, 52.29 W
+2024/01/07 18:08:52.575, Tesla T4, 1, 74 %, 155 MiB, 61.52 W
+2024/01/07 18:08:52.583, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:52.588, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:53.393, Tesla T4, 0, 55 %, 191 MiB, 48.10 W
+2024/01/07 18:08:53.399, Tesla T4, 1, 75 %, 155 MiB, 64.76 W
+2024/01/07 18:08:53.403, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:53.407, Tesla T4, 3, 0 %, 9 MiB, 36.50 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:54.212, Tesla T4, 0, 52 %, 191 MiB, 58.49 W
+2024/01/07 18:08:54.217, Tesla T4, 1, 79 %, 155 MiB, 70.65 W
+2024/01/07 18:08:54.221, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:54.225, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:55.032, Tesla T4, 0, 53 %, 191 MiB, 53.16 W
+2024/01/07 18:08:55.036, Tesla T4, 1, 78 %, 155 MiB, 70.75 W
+2024/01/07 18:08:55.041, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:08:55.045, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:55.851, Tesla T4, 0, 53 %, 191 MiB, 61.25 W
+2024/01/07 18:08:55.855, Tesla T4, 1, 79 %, 155 MiB, 72.34 W
+2024/01/07 18:08:55.860, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:55.864, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:56.670, Tesla T4, 0, 51 %, 191 MiB, 73.40 W
+2024/01/07 18:08:56.674, Tesla T4, 1, 77 %, 155 MiB, 79.27 W
+2024/01/07 18:08:56.679, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:56.683, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:57.488, Tesla T4, 0, 52 %, 191 MiB, 75.95 W
+2024/01/07 18:08:57.492, Tesla T4, 1, 74 %, 155 MiB, 60.40 W
+2024/01/07 18:08:57.496, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:57.503, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:58.305, Tesla T4, 0, 51 %, 191 MiB, 75.42 W
+2024/01/07 18:08:58.310, Tesla T4, 1, 74 %, 155 MiB, 53.87 W
+2024/01/07 18:08:58.314, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:08:58.318, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:59.120, Tesla T4, 0, 49 %, 191 MiB, 72.10 W
+2024/01/07 18:08:59.125, Tesla T4, 1, 77 %, 155 MiB, 62.64 W
+2024/01/07 18:08:59.130, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:59.134, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:08:59.936, Tesla T4, 0, 51 %, 191 MiB, 76.05 W
+2024/01/07 18:08:59.940, Tesla T4, 1, 78 %, 155 MiB, 60.33 W
+2024/01/07 18:08:59.946, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:08:59.952, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:00.756, Tesla T4, 0, 53 %, 191 MiB, 69.93 W
+2024/01/07 18:09:00.761, Tesla T4, 1, 79 %, 155 MiB, 68.29 W
+2024/01/07 18:09:00.771, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:00.778, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:01.582, Tesla T4, 0, 49 %, 191 MiB, 58.88 W
+2024/01/07 18:09:01.586, Tesla T4, 1, 75 %, 155 MiB, 72.34 W
+2024/01/07 18:09:01.590, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:01.594, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:02.399, Tesla T4, 0, 47 %, 191 MiB, 47.74 W
+2024/01/07 18:09:02.404, Tesla T4, 1, 73 %, 155 MiB, 76.53 W
+2024/01/07 18:09:02.409, Tesla T4, 2, 0 %, 9 MiB, 35.24 W
+2024/01/07 18:09:02.414, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:03.237, Tesla T4, 0, 53 %, 191 MiB, 48.48 W
+2024/01/07 18:09:03.241, Tesla T4, 1, 72 %, 155 MiB, 60.94 W
+2024/01/07 18:09:03.245, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:03.249, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:04.056, Tesla T4, 0, 55 %, 191 MiB, 46.58 W
+2024/01/07 18:09:04.061, Tesla T4, 1, 73 %, 155 MiB, 56.19 W
+2024/01/07 18:09:04.065, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:04.069, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:04.876, Tesla T4, 0, 55 %, 191 MiB, 45.51 W
+2024/01/07 18:09:04.880, Tesla T4, 1, 73 %, 155 MiB, 58.47 W
+2024/01/07 18:09:04.888, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:04.893, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:05.697, Tesla T4, 0, 55 %, 191 MiB, 45.22 W
+2024/01/07 18:09:05.703, Tesla T4, 1, 74 %, 155 MiB, 61.23 W
+2024/01/07 18:09:05.707, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:05.711, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:06.515, Tesla T4, 0, 56 %, 191 MiB, 64.39 W
+2024/01/07 18:09:06.525, Tesla T4, 1, 76 %, 155 MiB, 67.61 W
+2024/01/07 18:09:06.529, Tesla T4, 2, 0 %, 9 MiB, 34.95 W
+2024/01/07 18:09:06.534, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:07.339, Tesla T4, 0, 55 %, 191 MiB, 63.85 W
+2024/01/07 18:09:07.343, Tesla T4, 1, 77 %, 155 MiB, 68.92 W
+2024/01/07 18:09:07.351, Tesla T4, 2, 0 %, 9 MiB, 34.95 W
+2024/01/07 18:09:07.355, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:08.167, Tesla T4, 0, 56 %, 191 MiB, 66.51 W
+2024/01/07 18:09:08.172, Tesla T4, 1, 78 %, 155 MiB, 69.98 W
+2024/01/07 18:09:08.178, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:08.182, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:09.003, Tesla T4, 0, 56 %, 191 MiB, 70.37 W
+2024/01/07 18:09:09.007, Tesla T4, 1, 74 %, 155 MiB, 74.27 W
+2024/01/07 18:09:09.011, Tesla T4, 2, 0 %, 9 MiB, 34.85 W
+2024/01/07 18:09:09.015, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:09.816, Tesla T4, 0, 55 %, 191 MiB, 72.06 W
+2024/01/07 18:09:09.823, Tesla T4, 1, 74 %, 155 MiB, 60.88 W
+2024/01/07 18:09:09.832, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:09.836, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:10.639, Tesla T4, 0, 54 %, 191 MiB, 63.08 W
+2024/01/07 18:09:10.644, Tesla T4, 1, 74 %, 155 MiB, 59.24 W
+2024/01/07 18:09:10.648, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:10.652, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:11.459, Tesla T4, 0, 46 %, 191 MiB, 60.23 W
+2024/01/07 18:09:11.463, Tesla T4, 1, 77 %, 155 MiB, 52.84 W
+2024/01/07 18:09:11.468, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:11.472, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:12.276, Tesla T4, 0, 47 %, 191 MiB, 60.13 W
+2024/01/07 18:09:12.281, Tesla T4, 1, 78 %, 155 MiB, 61.04 W
+2024/01/07 18:09:12.285, Tesla T4, 2, 0 %, 9 MiB, 34.95 W
+2024/01/07 18:09:12.289, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:13.097, Tesla T4, 0, 48 %, 191 MiB, 59.49 W
+2024/01/07 18:09:13.101, Tesla T4, 1, 78 %, 155 MiB, 63.70 W
+2024/01/07 18:09:13.106, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:09:13.110, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:13.913, Tesla T4, 0, 49 %, 191 MiB, 53.19 W
+2024/01/07 18:09:13.921, Tesla T4, 1, 78 %, 155 MiB, 68.63 W
+2024/01/07 18:09:13.929, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:13.933, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:14.741, Tesla T4, 0, 51 %, 191 MiB, 51.16 W
+2024/01/07 18:09:14.746, Tesla T4, 1, 75 %, 155 MiB, 75.86 W
+2024/01/07 18:09:14.756, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:14.761, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:15.566, Tesla T4, 0, 52 %, 191 MiB, 53.64 W
+2024/01/07 18:09:15.571, Tesla T4, 1, 73 %, 155 MiB, 63.35 W
+2024/01/07 18:09:15.575, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:15.579, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:16.386, Tesla T4, 0, 53 %, 191 MiB, 60.48 W
+2024/01/07 18:09:16.396, Tesla T4, 1, 73 %, 155 MiB, 54.09 W
+2024/01/07 18:09:16.401, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:16.405, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:17.213, Tesla T4, 0, 53 %, 191 MiB, 60.33 W
+2024/01/07 18:09:17.219, Tesla T4, 1, 73 %, 155 MiB, 57.21 W
+2024/01/07 18:09:17.224, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:17.228, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:18.039, Tesla T4, 0, 55 %, 191 MiB, 64.20 W
+2024/01/07 18:09:18.047, Tesla T4, 1, 75 %, 155 MiB, 65.49 W
+2024/01/07 18:09:18.051, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:18.055, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:18.860, Tesla T4, 0, 56 %, 191 MiB, 73.89 W
+2024/01/07 18:09:18.865, Tesla T4, 1, 78 %, 155 MiB, 67.67 W
+2024/01/07 18:09:18.873, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:18.877, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:19.682, Tesla T4, 0, 54 %, 191 MiB, 62.02 W
+2024/01/07 18:09:19.686, Tesla T4, 1, 78 %, 155 MiB, 76.24 W
+2024/01/07 18:09:19.691, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:19.695, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:20.500, Tesla T4, 0, 56 %, 191 MiB, 64.97 W
+2024/01/07 18:09:20.505, Tesla T4, 1, 73 %, 155 MiB, 76.05 W
+2024/01/07 18:09:20.511, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:20.515, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:21.318, Tesla T4, 0, 47 %, 191 MiB, 69.74 W
+2024/01/07 18:09:21.324, Tesla T4, 1, 73 %, 155 MiB, 77.11 W
+2024/01/07 18:09:21.329, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:21.333, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:22.138, Tesla T4, 0, 49 %, 191 MiB, 75.09 W
+2024/01/07 18:09:22.142, Tesla T4, 1, 74 %, 155 MiB, 77.11 W
+2024/01/07 18:09:22.147, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:22.152, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:22.956, Tesla T4, 0, 49 %, 191 MiB, 73.69 W
+2024/01/07 18:09:22.961, Tesla T4, 1, 73 %, 155 MiB, 77.30 W
+2024/01/07 18:09:22.971, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:22.975, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:23.778, Tesla T4, 0, 48 %, 191 MiB, 72.92 W
+2024/01/07 18:09:23.783, Tesla T4, 1, 71 %, 155 MiB, 72.00 W
+2024/01/07 18:09:23.787, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:23.791, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:24.594, Tesla T4, 0, 50 %, 191 MiB, 71.43 W
+2024/01/07 18:09:24.604, Tesla T4, 1, 74 %, 155 MiB, 64.13 W
+2024/01/07 18:09:24.609, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:24.613, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:25.422, Tesla T4, 0, 49 %, 191 MiB, 64.39 W
+2024/01/07 18:09:25.430, Tesla T4, 1, 73 %, 155 MiB, 63.80 W
+2024/01/07 18:09:25.437, Tesla T4, 2, 0 %, 9 MiB, 35.15 W
+2024/01/07 18:09:25.441, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:26.247, Tesla T4, 0, 49 %, 191 MiB, 72.83 W
+2024/01/07 18:09:26.254, Tesla T4, 1, 70 %, 155 MiB, 59.30 W
+2024/01/07 18:09:26.262, Tesla T4, 2, 0 %, 9 MiB, 35.15 W
+2024/01/07 18:09:26.266, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:27.073, Tesla T4, 0, 54 %, 191 MiB, 74.42 W
+2024/01/07 18:09:27.078, Tesla T4, 1, 73 %, 155 MiB, 61.71 W
+2024/01/07 18:09:27.089, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:27.093, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:27.899, Tesla T4, 0, 53 %, 191 MiB, 74.75 W
+2024/01/07 18:09:27.903, Tesla T4, 1, 74 %, 155 MiB, 63.22 W
+2024/01/07 18:09:27.908, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:27.912, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:28.718, Tesla T4, 0, 52 %, 191 MiB, 69.07 W
+2024/01/07 18:09:28.726, Tesla T4, 1, 77 %, 155 MiB, 70.65 W
+2024/01/07 18:09:28.731, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:28.735, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:29.539, Tesla T4, 0, 53 %, 191 MiB, 51.16 W
+2024/01/07 18:09:29.544, Tesla T4, 1, 79 %, 155 MiB, 77.01 W
+2024/01/07 18:09:29.554, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:29.558, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:30.365, Tesla T4, 0, 50 %, 191 MiB, 50.03 W
+2024/01/07 18:09:30.371, Tesla T4, 1, 79 %, 155 MiB, 79.36 W
+2024/01/07 18:09:30.375, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:30.379, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:31.183, Tesla T4, 0, 49 %, 191 MiB, 52.22 W
+2024/01/07 18:09:31.187, Tesla T4, 1, 78 %, 155 MiB, 61.91 W
+2024/01/07 18:09:31.191, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:31.195, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:31.999, Tesla T4, 0, 47 %, 191 MiB, 59.17 W
+2024/01/07 18:09:32.006, Tesla T4, 1, 77 %, 155 MiB, 59.24 W
+2024/01/07 18:09:32.010, Tesla T4, 2, 0 %, 9 MiB, 34.95 W
+2024/01/07 18:09:32.016, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:32.823, Tesla T4, 0, 47 %, 191 MiB, 54.03 W
+2024/01/07 18:09:32.829, Tesla T4, 1, 75 %, 155 MiB, 54.64 W
+2024/01/07 18:09:32.833, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:32.838, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:33.645, Tesla T4, 0, 47 %, 191 MiB, 56.05 W
+2024/01/07 18:09:33.656, Tesla T4, 1, 76 %, 155 MiB, 59.49 W
+2024/01/07 18:09:33.661, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:33.665, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:34.468, Tesla T4, 0, 46 %, 191 MiB, 50.42 W
+2024/01/07 18:09:34.473, Tesla T4, 1, 75 %, 155 MiB, 56.15 W
+2024/01/07 18:09:34.477, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:34.482, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:35.290, Tesla T4, 0, 47 %, 191 MiB, 53.35 W
+2024/01/07 18:09:35.294, Tesla T4, 1, 75 %, 155 MiB, 58.63 W
+2024/01/07 18:09:35.298, Tesla T4, 2, 0 %, 9 MiB, 35.26 W
+2024/01/07 18:09:35.304, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:36.110, Tesla T4, 0, 54 %, 191 MiB, 65.93 W
+2024/01/07 18:09:36.115, Tesla T4, 1, 73 %, 155 MiB, 78.69 W
+2024/01/07 18:09:36.125, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:36.129, Tesla T4, 3, 0 %, 9 MiB, 36.12 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:36.933, Tesla T4, 0, 54 %, 191 MiB, 68.35 W
+2024/01/07 18:09:36.938, Tesla T4, 1, 73 %, 155 MiB, 70.22 W
+2024/01/07 18:09:36.943, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:36.948, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:37.755, Tesla T4, 0, 52 %, 191 MiB, 63.66 W
+2024/01/07 18:09:37.764, Tesla T4, 1, 73 %, 155 MiB, 53.38 W
+2024/01/07 18:09:37.768, Tesla T4, 2, 0 %, 9 MiB, 35.15 W
+2024/01/07 18:09:37.772, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:38.574, Tesla T4, 0, 52 %, 191 MiB, 64.97 W
+2024/01/07 18:09:38.578, Tesla T4, 1, 73 %, 155 MiB, 61.13 W
+2024/01/07 18:09:38.583, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:38.587, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:39.387, Tesla T4, 0, 52 %, 191 MiB, 64.01 W
+2024/01/07 18:09:39.395, Tesla T4, 1, 73 %, 155 MiB, 62.74 W
+2024/01/07 18:09:39.402, Tesla T4, 2, 0 %, 9 MiB, 35.15 W
+2024/01/07 18:09:39.406, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:40.209, Tesla T4, 0, 53 %, 191 MiB, 61.68 W
+2024/01/07 18:09:40.214, Tesla T4, 1, 74 %, 155 MiB, 68.53 W
+2024/01/07 18:09:40.218, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:40.222, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:41.027, Tesla T4, 0, 48 %, 191 MiB, 64.72 W
+2024/01/07 18:09:41.031, Tesla T4, 1, 76 %, 155 MiB, 74.99 W
+2024/01/07 18:09:41.040, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:41.044, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:41.846, Tesla T4, 0, 48 %, 191 MiB, 63.18 W
+2024/01/07 18:09:41.850, Tesla T4, 1, 79 %, 155 MiB, 78.88 W
+2024/01/07 18:09:41.854, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:41.859, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:42.668, Tesla T4, 0, 48 %, 191 MiB, 61.77 W
+2024/01/07 18:09:42.676, Tesla T4, 1, 79 %, 155 MiB, 78.31 W
+2024/01/07 18:09:42.681, Tesla T4, 2, 0 %, 9 MiB, 35.07 W
+2024/01/07 18:09:42.685, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:43.491, Tesla T4, 0, 48 %, 191 MiB, 65.84 W
+2024/01/07 18:09:43.499, Tesla T4, 1, 78 %, 155 MiB, 78.40 W
+2024/01/07 18:09:43.510, Tesla T4, 2, 0 %, 9 MiB, 35.05 W
+2024/01/07 18:09:43.514, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:44.319, Tesla T4, 0, 48 %, 191 MiB, 50.61 W
+2024/01/07 18:09:44.326, Tesla T4, 1, 79 %, 155 MiB, 55.03 W
+2024/01/07 18:09:44.340, Tesla T4, 2, 0 %, 9 MiB, 34.95 W
+2024/01/07 18:09:44.345, Tesla T4, 3, 0 %, 9 MiB, 36.12 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:45.151, Tesla T4, 0, 51 %, 191 MiB, 56.83 W
+2024/01/07 18:09:45.156, Tesla T4, 1, 72 %, 155 MiB, 67.32 W
+2024/01/07 18:09:45.164, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:45.168, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:45.973, Tesla T4, 0, 51 %, 191 MiB, 57.85 W
+2024/01/07 18:09:45.979, Tesla T4, 1, 73 %, 155 MiB, 66.31 W
+2024/01/07 18:09:45.983, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:09:45.988, Tesla T4, 3, 0 %, 9 MiB, 36.02 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:46.790, Tesla T4, 0, 54 %, 191 MiB, 64.24 W
+2024/01/07 18:09:46.795, Tesla T4, 1, 73 %, 155 MiB, 70.75 W
+2024/01/07 18:09:46.800, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:09:46.804, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:47.608, Tesla T4, 0, 56 %, 191 MiB, 74.08 W
+2024/01/07 18:09:47.612, Tesla T4, 1, 72 %, 155 MiB, 77.11 W
+2024/01/07 18:09:47.616, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:47.620, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:48.424, Tesla T4, 0, 55 %, 191 MiB, 70.03 W
+2024/01/07 18:09:48.431, Tesla T4, 1, 73 %, 155 MiB, 66.26 W
+2024/01/07 18:09:48.436, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:48.440, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:49.244, Tesla T4, 0, 55 %, 191 MiB, 68.11 W
+2024/01/07 18:09:49.249, Tesla T4, 1, 73 %, 155 MiB, 60.69 W
+2024/01/07 18:09:49.253, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:09:49.257, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:50.060, Tesla T4, 0, 55 %, 191 MiB, 67.38 W
+2024/01/07 18:09:50.064, Tesla T4, 1, 72 %, 155 MiB, 70.46 W
+2024/01/07 18:09:50.069, Tesla T4, 2, 0 %, 9 MiB, 34.87 W
+2024/01/07 18:09:50.073, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:50.877, Tesla T4, 0, 50 %, 191 MiB, 74.08 W
+2024/01/07 18:09:50.881, Tesla T4, 1, 73 %, 155 MiB, 74.84 W
+2024/01/07 18:09:50.885, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:50.889, Tesla T4, 3, 0 %, 9 MiB, 35.92 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:51.696, Tesla T4, 0, 53 %, 191 MiB, 46.48 W
+2024/01/07 18:09:51.701, Tesla T4, 1, 80 %, 155 MiB, 75.76 W
+2024/01/07 18:09:51.705, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:51.709, Tesla T4, 3, 0 %, 9 MiB, 35.73 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:52.514, Tesla T4, 0, 50 %, 191 MiB, 47.74 W
+2024/01/07 18:09:52.520, Tesla T4, 1, 79 %, 155 MiB, 74.07 W
+2024/01/07 18:09:52.530, Tesla T4, 2, 0 %, 9 MiB, 34.97 W
+2024/01/07 18:09:52.534, Tesla T4, 3, 0 %, 9 MiB, 35.82 W
+timestamp, name, index, utilization.gpu [%], memory.used [MiB], power.draw [W]
+2024/01/07 18:09:53.338, Tesla T4, 0, 47 %, 191 MiB, 52.51 W
+2024/01/07 18:09:53.344, Tesla T4, 1, 77 %, 155 MiB, 75.18 W
+2024/01/07 18:09:53.348, Tesla T4, 2, 0 %, 9 MiB, 35.17 W
+2024/01/07 18:09:53.352, Tesla T4, 3, 0 %, 9 MiB, 35.92 W

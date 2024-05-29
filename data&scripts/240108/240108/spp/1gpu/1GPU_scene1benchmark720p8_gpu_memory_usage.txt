@@ -1,0 +1,77 @@
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:15.453, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:15.453, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:16.272, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:16.272, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:17.092, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:17.092, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:17.912, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:17.912, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:18.732, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:18.732, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:19.552, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:19.552, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:20.378, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:20.378, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:21.200, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:21.200, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:22.022, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:22.022, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:22.841, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:22.841, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:23.660, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:23.660, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:24.481, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:24.481, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:25.302, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:25.302, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:26.122, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:26.122, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:26.935, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:26.935, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:27.756, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:27.756, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:28.576, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:28.576, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:29.398, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:29.398, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:30.220, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:30.220, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:31.036, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:31.036, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:31.863, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:31.863, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:32.678, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:32.678, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:33.495, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:33.495, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:34.312, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:34.312, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 21:43:35.126, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145903, ./DemoServer, 158 MiB
+2024/01/07 21:43:35.126, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 145923, ./RayTracer, 22 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]

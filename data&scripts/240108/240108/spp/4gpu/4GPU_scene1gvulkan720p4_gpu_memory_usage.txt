@@ -1,0 +1,42 @@
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:50.530, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 86 MiB
+2024/01/07 22:48:50.530, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:50.531, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 86 MiB
+2024/01/07 22:48:50.532, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 86 MiB
+2024/01/07 22:48:50.533, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 86 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:51.346, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 120 MiB
+2024/01/07 22:48:51.346, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:51.348, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 108 MiB
+2024/01/07 22:48:51.349, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 108 MiB
+2024/01/07 22:48:51.350, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 108 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:52.165, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 158 MiB
+2024/01/07 22:48:52.165, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:52.166, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:52.167, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:52.168, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 145 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:53.014, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 158 MiB
+2024/01/07 22:48:53.014, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:53.015, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:53.019, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:53.021, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 145 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:53.839, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 158 MiB
+2024/01/07 22:48:53.839, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:53.840, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:53.841, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:53.843, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 145 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+2024/01/07 22:48:54.661, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165516, ./DemoServer, 158 MiB
+2024/01/07 22:48:54.661, Tesla T4, GPU-078d5af1-c65d-08e7-dcd5-c421fd3008f2, 165580, ./RayTracer, 22 MiB
+2024/01/07 22:48:54.663, Tesla T4, GPU-3ae88737-b26f-173b-b268-118cf43a0c6f, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:54.663, Tesla T4, GPU-5ba9e85e-68d8-cbfd-490d-f47fe06e328d, 165516, ./DemoServer, 145 MiB
+2024/01/07 22:48:54.665, Tesla T4, GPU-a7146350-8b9c-7888-c01a-54b5a0818148, 165516, ./DemoServer, 145 MiB
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
+timestamp, gpu_name, gpu_uuid, pid, process_name, used_gpu_memory [MiB]
